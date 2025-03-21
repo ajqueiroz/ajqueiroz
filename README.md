@@ -3,7 +3,7 @@
  👋I'm Antonio. I'm a Cyber enthusiast and Indiana Jones of knowledge . Welcome to my gh page! <br>
 
 - 🔭 I’m currently working on ...Cloud and Cyber Security
-- 🌱 I’m currently learning ... AWS
+- 🌱 
 
 
 
