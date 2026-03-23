@@ -39,7 +39,6 @@ Some repos are polished, some are glorified notes. All of them are useful to me,
 
 🌱 Currently Exploring
 
-
-📧 you@example.com
+TBC
 
 
