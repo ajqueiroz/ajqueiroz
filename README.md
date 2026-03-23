@@ -1,26 +1,45 @@
 
 
- 👋I'm Antonio. I'm a Cyber enthusiast and Indiana Jones of knowledge . Welcome to my gh page! <br>
+ Hey, I'm Antonio Q 👋
 
-- 🔭 I’m currently working on ...Cloud and Cyber Security
-- 🌱 
-
+Cybersecurity & Cloud Architect | Breaking things (responsibly) so others can't.
 
 
-![counter](https://[ajqueiroz].m.pipedream.net)
-<!--
-**ajqueiroz/ajqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 What I Do
+I work at the intersection of cloud infrastructure and security — assessing systems that are resilient by design, not just by policy.
 
-Here are some ideas to get you started:
+Cloud Security — securing workloads across AWS / Azure / GCP, from IAM hardening to network segmentation and zero-trust architecture
+Threat Modelling & Risk — turning attack surfaces into diagrams, then into fixes
+DevSecOps — embedding security into pipelines so it's a feature, not an afterthought
+Compliance & Controls — translating technical controls into frameworks (NIST, CIS, ISO 27001, SOC 2)
+Incident Response — forensics, containment, and the post-mortem that actually gets read
 
-- 🔭 I’m currently working on ...Cloud and Cyber Security
-- 🌱 I’m currently learning ... AWS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-https://giphy.com/gifs/percolategalactic-star-wars-storm-troopers-maythe4th-26FxzFK4yudFHRFde
-![counter](https://[YourEndpoint].m.pipedream.net)
--->
+
+🛠️ Tools & Tech
+Cloud
+AWS Azure GCP Terraform Ansible
+Security
+Wazuh Falco Trivy Prowler OpenVAS Velociraptor
+Languages & Scripting
+Python Bash PowerShell Go
+Containers & Orchestration
+Docker Kubernetes Helm ArgoCD
+Observability
+Elastic Stack Splunk Grafana OpenTelemetry
+
+📂 What's in This Profile
+A mix of personal projects, tooling, and labs I've built to explore ideas or scratch an itch:
+
+🔍 Detection engineering — custom detection rules and threat hunt playbooks
+☁️ Cloud security tooling — scripts and modules for auditing cloud posture
+🧪 Labs & sandboxes — environments for testing attack paths and defences
+📋 Hardening guides — opinionated baselines for common platforms
+
+Some repos are polished, some are glorified notes. All of them are useful to me, hopefully some are useful to you.
+
+🌱 Currently Exploring
+
+
+📧 you@example.com
+
+
